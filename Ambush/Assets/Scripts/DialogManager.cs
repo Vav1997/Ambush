@@ -26,12 +26,8 @@ public class DialogManager : MonoBehaviour
         }
 
         audioSource = GetComponent<AudioSource>();
-    }
+    }  
 
-    private void Start()
-    {
-        
-    }
 
     private void Update()
     {
@@ -226,6 +222,5 @@ public class DialogManager : MonoBehaviour
         audioSource.clip = null;
         
         //mission.OnDialogFinished();
-
     }
 }
