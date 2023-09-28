@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9309ad49eee9a9e4c8ff4af87731af25
+  - enabled: 1
+    path: Assets/Scenes/StoryMode.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/EndlessMode.unity
+    guid: 93e56a77f7f01ba4e8b9407a37d840d8
+  m_configObjects: {}
